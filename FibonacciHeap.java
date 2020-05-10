@@ -3,12 +3,6 @@
  *
  * An implementation of fibonacci heap over integers.
  *
- *  Authors :
- *                  Nezar Aburas
- *         Username: nezaraburas, ID: 209010644
- *
- *                  Michael Naaman
- *          Username: naaman, ID: 209231893
  *
  *
  */
