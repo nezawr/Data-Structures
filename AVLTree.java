@@ -5,10 +5,6 @@
  * An implementation of a AVL Tree with
  * distinct integer keys and info
  *
- * @author Nezar Aburas
- * username: nezaraburas, ID: 209010644
- * @author Michael Naaman
- * username: naaman, ID: 209231893
  * 
  */
 
